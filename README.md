@@ -147,10 +147,7 @@ La aplicación React consume la API y renderiza los registros en una tabla.
 ## Cómo Ejecutar el Proyecto
 
 ```bash
-# 1. Clonar el repositorio
-git clone <url-del-repositorio>
-cd proyecto
-
+# 1. cd proyecto
 # 2. Levantar todos los servicios
 docker compose up --build
 
